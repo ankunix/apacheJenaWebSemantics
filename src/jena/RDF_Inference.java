@@ -1,3 +1,4 @@
+package jena;
 
 import org.apache.jena.rdf.model.InfModel;
 import org.apache.jena.rdf.model.Model;
